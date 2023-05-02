@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>486775197323-m0gjbe2tj2i889u2687tos4or1ljs1n8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.486775197323-m0gjbe2tj2i889u2687tos4or1ljs1n8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>486775197323-u4fhtcgrailp4q3nlpivdavese1tcej6.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC-3NyLfi22iqys5lmHPjsdeLI6M9oR4wE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>486775197323</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.naijafoods</string>
+	<key>PROJECT_ID</key>
+	<string>naijafoods-6c33d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>naijafoods-6c33d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:486775197323:ios:877eee229709d219c58e8e</string>
+</dict>
+</plist>

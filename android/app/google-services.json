@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "486775197323",
+    "project_id": "naijafoods-6c33d",
+    "storage_bucket": "naijafoods-6c33d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486775197323:android:cfa359960af67e3cc58e8e",
+        "android_client_info": {
+          "package_name": "com.mycompany.naijafoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486775197323-u4fhtcgrailp4q3nlpivdavese1tcej6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.naijafoods",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "486775197323-k3a1qmn92npmdvn28sj26kafjsr7qdir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsra0N1Ig-6MOdc4_mTE5MXczJ5kb-pK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486775197323-k3a1qmn92npmdvn28sj26kafjsr7qdir.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "486775197323-m0gjbe2tj2i889u2687tos4or1ljs1n8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.naijafoods"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
